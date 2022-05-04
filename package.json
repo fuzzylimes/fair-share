@@ -1,6 +1,6 @@
 {
-  "name": "svelte-bulma-boilerplate",
-  "version": "1.0.0",
+  "name": "fair-share",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "rollup -c",
